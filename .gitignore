@@ -1,0 +1,4 @@
+env/
+api/db.sqlite3
+api/media/*
+static/*
